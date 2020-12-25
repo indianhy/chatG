@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "279279085342",
+    "firebase_url": "https://chatg-cf514.firebaseio.com",
+    "project_id": "chatg-cf514",
+    "storage_bucket": "chatg-cf514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279279085342:android:7718e0c2932f44dc",
+        "android_client_info": {
+          "package_name": "com.codehasy.chatg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279279085342-oso0l1ofnu2qnjv9264rmh6dc6rskqr4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codehasy.chatg",
+            "certificate_hash": "c02b098a50f3788485181a8e3132416d923cdd60"
+          }
+        },
+        {
+          "client_id": "279279085342-saaes132cvu1a5nv57hjmv1e6tr2k787.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJJWQ6ZbNQXtbQO7PRrpANTGMw4ulGPtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279279085342-saaes132cvu1a5nv57hjmv1e6tr2k787.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
